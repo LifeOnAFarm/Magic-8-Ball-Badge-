@@ -40,7 +40,9 @@ There are a few quirks to this board. One ~~flaw~~ feature is that the switch do
 
 ## License
 
-This project is licensed under the MIT License. All I ask is that you leave my Twitter handle on the back of the board, thanks. - see the LICENSE.md file for details
+This project is licensed under the MIT License. 
+
+All I ask is that you leave my Twitter handle on the back of the board, thanks. - see the LICENSE.md file for more details
 
 ## Acknowledgments
 

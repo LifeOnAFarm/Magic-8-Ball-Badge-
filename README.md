@@ -50,4 +50,4 @@ This project is licensed under the MIT License. All I ask is that you leave my T
 
 A button to buy me a cup of coffee if you see fit
 
-![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Sdecleir%40hotmail%2ecom&lc=IE&item_name=%40PotatoNightmare&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Sdecleir%40hotmail%2ecom&lc=IE&item_name=%40PotatoNightmare&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)

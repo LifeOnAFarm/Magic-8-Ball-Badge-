@@ -1,7 +1,7 @@
 # Magic 8-Ball Badge 
 Created in the lead up to DefCon 26 #BadgeLife
 
-![BadgeImage](https://raw.githubusercontent.com/LifeOnAFarm/Magic-8-Ball-Badge-/blob/master/badgeImage.png)
+![BadgeImage](https://github.com/LifeOnAFarm/Magic-8-Ball-Badge-/blob/master/badgeImage.png)
 
 ## Getting Started
 

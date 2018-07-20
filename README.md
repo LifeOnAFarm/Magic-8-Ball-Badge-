@@ -1,6 +1,8 @@
 # Magic 8-Ball Badge 
 Created in the lead up to DefCon 26 #BadgeLife
 
+![alt text](https://raw.githubusercontent.com/LifeOnAFarm/Magic-8-Ball-Badge-/branch/path/to/img.png)
+
 ## Getting Started
 
 Welcome to the Magic 8-Ball Badge files/guide.
@@ -11,7 +13,7 @@ First off, as a warning, I'm by no stretch of the imagination a professional PCB
 
 ## Quirks:
 
-There are a few quirks to this board. One ~~flaw~~ feature is that the switch doesn't power the PCB on and off, but switches the power from the 8-Ball circuit to the Shitty Add-On headers. Another quirk you might notice in Kicad is that I couldn't find the footprint for a SW-200D tilt switch so I just used a similar sized component.
+There are a few quirks to this board. One ~~flaw~~ feature is that the switch doesn't power the PCB on and off, but switches the power from the 8-Ball circuit to the Shitty Add-On headers. Another quirk you might notice in Kicad, is that I couldn't find the footprint for a SW-200D tilt switch so I just used a similar sized component.
 
 ## Components You Will Need:
 
